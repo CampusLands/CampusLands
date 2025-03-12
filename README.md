@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CampusLands Bucaramanga</h1>
+<h1 align="center">Hi 👋,CampusLands Bucaramanga</h1>
 <h3 align="center">
 Campuslands is an intensive educational experience that seeks to transform lives in just one year, training young people in technology skills and key competencies for their first quality job in software development.
 campuslands.com
@@ -29,7 +29,7 @@ co.linkedin.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=campuslands&label=Profile%20views&color=0e75b6&style=flat" alt="campuslands" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=campuslands" alt="campuslands" /></a> </p>
+<p align="left"> <a href="https://www.campuslands.com"><img src="https://www.campuslands.com/_astro/LogoCampuslands.B1kb7Hd-_1iubnD.svg" alt="campuslands" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
