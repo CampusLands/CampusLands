@@ -21,10 +21,6 @@ Campuslands has successfully hired more than 200 campers into companies, with a 
 campuslands.com
 
 Campuslands is also present on platforms such as Instagram, Facebook, and LinkedIn, where it shares content related to its mission and activities.
-
-co.linkedin.com
-
-
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=campuslands&label=Profile%20views&color=0e75b6&style=flat" alt="campuslands" /> </p>
