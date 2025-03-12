@@ -1,5 +1,31 @@
 <h1 align="center">Hi 👋, I'm CampusLands Bucaramanga</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">
+Campuslands is an intensive educational experience that seeks to transform lives in just one year, training young people in technology skills and key competencies for their first quality job in software development.
+campuslands.com
+
+The program focuses on three key areas:
+
+Programming: From fundamentals to advanced tools, participants are prepared for the challenges of the industry.
+campuslands.com
++1
+x.com
++1
+
+Spanish: Students are expected to master the global language, expanding their opportunities to collaborate with international teams and excel in the global marketplace.
+campuslands.com
+
+Socio-Emotional Skills: Skills such as emotional intelligence, teamwork, effective communication, and confident leadership are strengthened.
+campuslands.com
+
+Campuslands has successfully hired more than 200 campers into companies, with a 90% hiring rate in the first three months.​
+campuslands.com
+
+Campuslands is also present on platforms such as Instagram, Facebook, and LinkedIn, where it shares content related to its mission and activities.
+
+co.linkedin.com
+
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=campuslands&label=Profile%20views&color=0e75b6&style=flat" alt="campuslands" /> </p>
 
